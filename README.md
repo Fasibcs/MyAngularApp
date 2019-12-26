@@ -1,2 +1,0 @@
-# MyAngularApp
-Created with CodeSandbox
